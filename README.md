@@ -29,8 +29,8 @@ in this project, of course, it has been prepared with some basic command codes s
 
 - First clone the repo using ```git clone https://github.com/DappyNet13/JARVIS ```
 - and go to project folder using ```cd JARVIS ```
-- open terminals and installs some moduls
-```pip install -r requirements.txt```
+- open terminals and installs some moduls in
+```requirements.txt```
 - if you already to installs moduls lets go to next step
 - run your code using python ```python jarvis.py```
 
