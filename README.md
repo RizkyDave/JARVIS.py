@@ -1,4 +1,4 @@
-# JARVIS | python Voice Assistant
+# JARVIS | Python Voice Assistant
 
 #### This is a project that started out of curiosity after watching the Iron Man movie
 #### yup, this is right, JARVIS, an artificial intelligence like in the film Iron Man, but unfortunately this version of intelligence is just the basis
@@ -15,15 +15,12 @@ here is how it works
 in this project, of course, it has been prepared with some basic command codes such as:
 
 - show the current time
-- weather information
 - day information
-- basic of mathematics
 - give you joke
 - wikipedia search
 - chatbot
-- open youtube
-- open chrome ..etc
-- play music 
+
+*if you feel the command is little you can make a command from this project and also it can be extended further and you can also make your own command its really cool*
 
 ## Installation
 
