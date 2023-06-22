@@ -8,14 +8,13 @@
 The simplicity of this project is made by using the Python module to create a program
 here is how it works
 
-<img src="https://github.com/DappyNet13/JARVIS/assets/92771259/e49d2679-9947-4bd1-a11b-08c4bc057af6" data-canonical-src="https://github.com/DappyNet13/JARVIS/assets/92771259/e49d2679-9947-4bd1-a11b-08c4bc057af6" width="620" height="450" />
+<img src="https://github.com/Dappy-Net/JARVIS.py/assets/92771259/4c2281ec-cd3e-49fb-8286-e36766e2287e" data-canonical-src="https://github.com/Dappy-Net/JARVIS.py/assets/92771259/4c2281ec-cd3e-49fb-8286-e36766e2287e" width="620" height="450" />
 
 
 
 ## Features
 
-in this project, of course, it has been prepared with some basic command codes such as:![autodraw 5_17_2023(1)](https://github.com/Dappy-Net/JARVIS.py/assets/92771259/4c2281ec-cd3e-49fb-8286-e36766e2287e)
-
+in this project, of course, it has been prepared with some basic command codes such as:
 
 - show the current time
 - day information
