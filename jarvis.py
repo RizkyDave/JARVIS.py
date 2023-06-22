@@ -5,7 +5,7 @@ import wikipedia
 import pyjokes
 import openai
 
-openai.api_key = "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"
+openai.api_key = "your openai api"
 
 def get_response(input):
     if input == "let's fly RPS game":
