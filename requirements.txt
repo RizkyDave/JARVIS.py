@@ -6,5 +6,7 @@
 
 4- pip install SpeechRecognition  
 
+5- pip install openai
+
 [ ANOTHER VERSION OF 4 INSTALLATIONS ]
 [ ? - pip install speech_recognition ]
