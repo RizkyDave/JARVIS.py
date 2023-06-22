@@ -3,6 +3,9 @@ import datetime
 import pyttsx3
 import wikipedia
 import pyjokes
+import openai
+
+openai.api_key = "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"
 
 def get_response(input):
     if input == "let's fly RPS game":
@@ -15,26 +18,30 @@ def get_response(input):
         d = datetime.datetime.now()
         hour = d.hour
         minute = d.minute
-
-        return "The time is " + str(hour) + ":" + str(minute) + " sir !"
-
+        return "The time is " + str(hour) + ":" + str(minute) + " sir!"
     
     elif input == "give me a joke" or input == "gime me joke":
         return pyjokes.get_joke()
-
-    elif input == "what is":
-        return "Please specify who you're looking for."
     
-    elif input == "what is ":
+    elif input.startswith("what is "):
         person = input.replace('what is ', '')
         info = wikipedia.summary(person, 1)
         return str(info)
-
-
+    
     elif input == "goodbye":
         return "Talk to you later sir!"
+    
     else:
-        return "Try asking something else sir!"
+        response = openai.Completion.create(
+            engine="text-davinci-003",
+            prompt=input,
+            temperature=0.7,
+            max_tokens=3000,
+            top_p=1,
+            frequency_penalty=0,
+            presence_penalty=0
+        )
+        return response.choices[0].text
 
 def speak(text):
     engine = pyttsx3.init()
