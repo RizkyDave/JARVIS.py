@@ -8,7 +8,7 @@
 The simplicity of this project is made by using the Python module to create a program
 here is how it works
 
-<img src="https://github.com/Dappy-Net/JARVIS.py/assets/92771259/4c2281ec-cd3e-49fb-8286-e36766e2287e" data-canonical-src="https://github.com/Dappy-Net/JARVIS.py/assets/92771259/4c2281ec-cd3e-49fb-8286-e36766e2287e"  />
+<img src="https://github.com/Dappy-Net/JARVIS.py/assets/92771259/09931f50-1631-49f6-9aa6-9dd4253a9e58" data-canonical-src="https://github.com/Dappy-Net/JARVIS.py/assets/92771259/09931f50-1631-49f6-9aa6-9dd4253a9e58"  />
 
 
 
