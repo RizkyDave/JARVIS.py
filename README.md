@@ -34,7 +34,6 @@ in this project, of course, it has been prepared with some basic command codes s
 ## Support Me 
 if you like our project you can support us by giving ⭐ in this repo
 and if anyone wants this project to continue you can support us using
-- 🪙 bitcoins: bc1qkyqw6xd422r9clwsjm5exy2t5yg7czkdzxv55t
 - 👝 paypal : paypal.me/RizkyDaffy
 - 🤑 saweria : https://trakteer.id/DappyNet
 
